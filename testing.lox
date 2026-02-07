@@ -1,0 +1,7 @@
+var x;
+print x;
+
+{
+    var x = 1;
+}
+print x;
